@@ -4,16 +4,16 @@
 
 
 
-__steps to use:__
+__Steps to Use:__
 
-1. define functions for the algorithms to be tested
+1. Define functions for the algorithms to be tested
 
  __NOTE:__ be sure the functions take a list of integers as an argument,
 or modify the code as necessary
 
-2. modify the wrapper function calls to the new algo function and their args
+2. Modify the wrapper function calls to the new algo functions and their args
 
-3. alter the file name and destination for the plots file
+3. Alter the file name and destination for the plots file
 
  __NOTE:__ the code will need to be extended to generate more plots for comparison
 
