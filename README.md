@@ -1,21 +1,19 @@
 # Algo Compare
 
-### A simple python program for comparing the performance of algorithms
+### A simple python program for comparing the time performance of algorithms
 
 
 
 __Steps to Use:__
 
-1. Define functions for the algorithms to be tested
+1. Define the algorithms to be tested as user-defined functions
 
  __NOTE:__ be sure the functions take a list of integers as an argument,
 or modify the code as necessary
 
 2. Modify the wrapper function calls to the new algo functions and their args
 
-3. Alter the file name and destination for the plots file
-
- __NOTE:__ the code will need to be extended to generate more plots for comparison
+3. Alter the file name and destination for the output plot image file
 
 
 __License__
